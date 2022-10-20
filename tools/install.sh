@@ -9,7 +9,7 @@ echo () {
     printf "\n%b\n" "[iac] $1"
 }
 
-IAC_FOLDER="$HOME/Documents/iac"
+IAC_FOLDER="/Users/emtekcan/iac"
 REPO_NAME="lab0-devtools"
 TOOLS_FOLDER="$IAC_FOLDER/$REPO_NAME"
 POST_RUN_SCRIPT=""

@@ -9,7 +9,7 @@ echo () {
     printf "\n%b\n" "[iac] $1"
 }
 
-IAC_FOLDER="$HOME/Documents/iac"
+IAC_FOLDER="/Users/emtekcan/iac"
 
 echo "Running brew update"
 brew update
